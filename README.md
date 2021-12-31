@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Nitin Jadhav</h1>
 <h3 align="center">A passionate student curious about Data Science and Flutter Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamjadhav4901&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamjadhav4901" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamjadhav4901" alt="shubhamjadhav4901" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter Development**
